@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# exclude pptx files
+01_Courses/*/*/*.pptx
