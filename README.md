@@ -42,17 +42,11 @@
 
 - Week 7: "변이에 따른 구조 차이 이해하기"<br>
 **→** 단백질의 구조에 대해 간단히 알아본 후, 딥러닝 기반 구조 예측 프로그램인 AlphaFold에 대해서 소개합니다. 유전자상의 변이가 3차원상의 구조에 어떤 영향을 주는지 결론을 내려봅니다. 
-
-- Week 8: "AI를 활용한 문헌 관리와 구조 예측 검증"<br>
-**→** LLM을 활용하여 논문을 읽고 관리하는 방법을 알아봅니다. SARS-CoV-2의 스파이크 단백질에 대한 구조 예측 결과와 실제 논문을 비교하며 아미노산의 생화학적 성질에 기반해 구조와 기능의 관계를 해명합니다.
 (Zhang, J. et al. (2021). Membrane fusion and immune evasion by the spike protein of SARS-CoV-2 Delta variant. _Science (New York, N.Y.)_, _374_(6573), 1353–1360.)
 
-- Week 9: "치료 목표으로서의 헤모글로빈"<br>
+- Week 8: "치료 목표으로서의 헤모글로빈"<br>
 **→** 성상교세포 내 헤모글로빈 기능 및 약물의 개발에 대하여 논문에 기반해 학습합니다. 논문에서 target한 시퀀스를 추출하고 구조를 분석하며, 약물을 위한 친화력을 계산하는 알고리즘을 구상해봅니다.
 (Won, W. et al. (2025). Hemoglobin as a pseudoperoxidase and drug target for oxidative stress-related diseases. _Signal transduction and targeted therapy_, _10_(1), 270.)
-
-- Week 10: "LLM을 활용한 프로그램 개발과 디버깅"<br>
-**→** LLM을 활용하여 구상한 알고리즘을 구현해봅니다. 우리의 프로그램의 예측 결과와 논문에서의 결과를 상호 비교하고, 프로그램의 유지 보수 방법에 대해 고민해봅니다.
 
 ## Contributor
 충남대학교 생명정보융합학과 정진우<br>

@@ -1,0 +1,10 @@
+﻿taxon,gram_stain,shape,oxygen_dependence,culture_temp,access_code
+Bacillus subtilis,positive,rod,facultative anaerobe,30,EF423592
+Clostridioides difficile,positive,rod,anaerobe,37,AB075770
+Deinococcus radiodurans,positive,coccus,obligate aerobe,30,Y11332
+Escherichia coli,negative,rod,facultative anaerobe,37,X80725
+Halobacterium salinarum,negative,rod,facultative anaerobe,40,AJ496185
+Prevotella copri,negative,rod,anaerobe,37,AB064923
+Lactobacillus acidophilus,positive,rod,anaerobe,37,AB008203
+Thermus thermophilus,negative,rod,facultative anaerobe,75,X07998
+Unknown_X,positive,coccus,facultative anaerobe,37,D83357
